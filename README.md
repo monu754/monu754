@@ -1,10 +1,10 @@
 
 <h2 align="center">Hi 👋! My name is Manotosh Mandal, an Aspiring Data Scientist, from India</h2>
+
+###
 <p align="left">
   <img src="https://raw.githubusercontent.com/monu754/monu754/refs/heads/main/Hey.gif" align="center" width="400px" height="400px">
-</p>  
-###
-
+</p> 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monu754&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
