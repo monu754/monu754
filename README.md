@@ -20,8 +20,6 @@
 
 
 ###
-
-
 ###
 
 <div align="left">
@@ -67,6 +65,9 @@
 </div>
 
 ###
+
+[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/manotosh-mandal.png)](https://www.codeabbey.com/index/user_profile/manotosh-mandal)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/monu754/monu754/refs/heads/main/naruto.gif" align="center" width="300px" height="200px">
 </p>  
