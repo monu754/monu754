@@ -10,7 +10,7 @@
       <img src="https://raw.githubusercontent.com/monu754/monu754/refs/heads/main/Hey.gif" width="400px" height="400px" />
     </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monu754&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+      <img src="https://raw.githubusercontent.com/monu754/monu754/refs/heads/main/naruto.gif" align="center" width="300px" height="200px">
     </td>
   </tr>
 </table>
@@ -19,8 +19,17 @@
 
 
 
-###
-###
+### 🧠 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Manotosh Mandal"
+        self.location = "Bengaluru, India"
+        self.education = "B.E. in CSE (Data Science)"
+        self.interests = ["Machine Learning", "AI", "Cloud", "Development", "Gamer"]
+        self.motivation = "When you give up, your dreams and everything else, they're gone - Naruto"
+```
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -64,13 +73,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
-[![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/manotosh-mandal.png)](https://www.codeabbey.com/index/user_profile/manotosh-mandal)
+### 🎯 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu754&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api?username=monu754&show_icons=true&theme=radical&count_private=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu754&layout=compact&theme=tokyonight" /> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monu754/monu754/refs/heads/main/naruto.gif" align="center" width="300px" height="200px">
-</p>  
+### 🌐 Let's Connect
+
 <div align="center">
   <a href="https://www.instagram.com/manotosh._.04/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -84,9 +92,9 @@
 </div>
 
 ###
+###
+###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/monu754/monu754/output/snake.svg" alt="Snake animation" />
+<p align="center"><i>"Coding is fun untill you miss a LOOP"</i></p> <p align="center">✨ Thanks for reading! ✨</p>
 
 ###
