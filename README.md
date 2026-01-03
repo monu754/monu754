@@ -74,9 +74,6 @@ class Developer:
 </div>
 
 
-### 🎯 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu754&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api?username=monu754&show_icons=true&theme=radical&count_private=true" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monu754&layout=compact&theme=tokyonight" /> </p>
-
 ### 🌐 Let's Connect
 
 <div align="center">
