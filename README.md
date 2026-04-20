@@ -27,7 +27,7 @@ class Developer:
         self.name = "Manotosh Mandal"
         self.location = "Bengaluru, India"
         self.education = "B.E. in CSE (Data Science)"
-        self.interests = ["Machine Learning", "AI", "Cloud", "Development", "Gamer"]
+        self.interests = ["Machine Learning", "AI", "Development", "Gamer"]
         self.motivation = "When you give up, your dreams and everything else, they're gone - Naruto"
 ```
 
